@@ -79,4 +79,5 @@ Signed,
 * Bagus Budi Satoto ([@bagussatoto](https://github.com/bagussatoto)), Web Developer, Software Engineering and Network Engineering, from 💖 [Indonesia](https://home.amikom.ac.id)
 * Ayon Khan ([@ayonkhan](https://github.com/ayonkhan)), Web Artisan, Canada
 * Harunur Rashid ([@harunBdtask](https://github.com/harunBdtask)), Full Stack Developer , Bangladesh
-* Mark Kevin Cardente Besinga ([@besingamkb](https://github.com/besingamkb)) Full Stack Developer, Philippines
+* Mark Kevin Cardente Besinga ([@besingamkb](https://github.com/besingamkb)) Full Stack Developer, Philippines,
+* Sam ([@sam0hack](https://github.com/sam0hack)), Backend Engineer, Sweden
